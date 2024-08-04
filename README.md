@@ -11,7 +11,7 @@ DDOS-ATK is an open-source tool designed for educational and ethical security te
 
 ### Prerequisites
 
-- Python 3.x
+- Python 2 - 3.x
 - pip (Python package installer)
 
 ### Installation
@@ -31,6 +31,9 @@ To start using DDOS-ATK, run the following command:
 python ddos-atk.py
 ```
 
+### Language
+
+This Entire Program or Tool is made with ``Python``
 
 ### DISCLAIMER!!
 This Tool is only for Educational Purpose. Don't Use this tool for any kind of Illegal Purpose.
