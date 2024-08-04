@@ -20,6 +20,7 @@ DDOS-ATK is an open-source tool designed for educational and ethical security te
     ```sh
     git clone https://github.com/HackerPirates/DDOS-ATK.git
     cd DDOS-ATK
+    chmod +x ddos-atk.py
     ```
 
 ### Usage
