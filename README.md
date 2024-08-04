@@ -29,3 +29,7 @@ To start using DDOS-ATK, run the following command:
 ```sh
 python ddos-atk.py
 ```
+
+
+### DISCLAIMER!!
+This Tool is only for Educational Purpose. Don't Use this tool for any kind of Illegal Purpose.
