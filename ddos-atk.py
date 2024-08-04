@@ -29,7 +29,7 @@ print(' ╚═════╝░╚═════╝░░╚════╝░
 
 print("Coded By : Ahraf Uzzaman, Tanim Rahman")
 print("Author   : Cyber Pirates")
-print("Github   : ")
+print("Github   : https://github.com/CyberPirates24")
 print("Disclaimer- This Tool is only for Educational Purpose. Don't Use this tool for any kind of Illegal Purpose.")
 print()
 
@@ -42,7 +42,7 @@ print("┃┃╱┃┣╯┃┃╰┻╯┃┃╰┫┃╱┃┃┃╱╰┫╰�
 print("┃╰━╯┃╱┃┃╱╱╱┃┃╱┃╰━╯┃┃╱╭┫╭╮┃╱┃┃┃┃╰╮┃┃┃╭━╮")
 print("┃╭━╮┃╱┃┃╱╱╱┃┃╱┃╭━╮┃╰━╯┃┃┃╰┳┫┣┫┃╱┃┃┃╰┻━┃")
 print("╰╯╱╰╯╱╰╯╱╱╱╰╯╱╰╯╱╰┻━━━┻╯╰━┻━━┻╯╱╰━┻━━━╯")
-print("Team : Hacker Pirates")
+print("Team : Cyber Pirates")
 print("\033[91m")
 print("[                    ] 0% ")
 time.sleep(2)
