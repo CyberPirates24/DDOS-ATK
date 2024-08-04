@@ -13,16 +13,20 @@ DDOS-ATK is an open-source tool designed for educational and ethical security te
 
 - Python 2 - 3.x
 - pip (Python package installer)
+- git package
 
-### Installation
-
+### Installation  *For Kali Linux, Termux, Windows*
 1. Clone the repository:
     ```sh
     git clone https://github.com/HackerPirates/DDOS-ATK.git
     cd DDOS-ATK
     chmod +x ddos-atk.py
     ```
-
+### For Windows
+Before starting installing in Windows CMD, You need to have **git-scm** to git clone this tool. Otherwise, **You will not able to install this tool**.
+Whoever has it, does not need to install it. But for those who don't have it,
+they can install **git-scm** from the link given below: 👇
+https://github.com/git-for-windows/git/releases/download/v2.46.0.windows.1/Git-2.46.0-64-bit.exe
 ### Usage
 
 To start using DDOS-ATK, run the following command:
