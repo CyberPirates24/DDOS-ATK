@@ -29,7 +29,7 @@ print(' ╚═════╝░╚═════╝░░╚════╝░
 
 print("Coded By : Ahraf Uzzaman")
 print("Author   : Hacker Pirates")
-print("Github   : ")
+print("Github   : https://github.com/HackerPirates/DDOS-ATK")
 print("Disclaimer- This Tool is only for Educational Purpose. Don't Use this tool for any kind of Illegal Purpose.")
 print()
 
