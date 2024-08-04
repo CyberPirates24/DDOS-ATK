@@ -6,7 +6,6 @@ DDOS-ATK is an open-source tool designed for educational and ethical security te
 
 - **Network Load Testing:** Simulate high-traffic scenarios to test the robustness of your network.
 - **Stress Testing:** Evaluate how your system performs under heavy load.
-- **Reporting:** Generate detailed reports on the test results and potential improvements.
 
 ## Getting Started
 
