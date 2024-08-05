@@ -20,7 +20,6 @@ DDOS-ATK is an open-source tool designed for educational and ethical security te
     ```sh
     git clone https://github.com/HackerPirates/DDOS-ATK.git
     cd DDOS-ATK
-    chmod +x ddos-atk.py
     ```
 ### For Windows
 Before starting installing in Windows CMD, You need to have **git-scm** to git clone this tool. Otherwise, **You will not able to install this tool**.
